@@ -1,0 +1,56 @@
+
+/* parte da atividade 5 aqui*/
+.lista{
+    color: blue;
+}
+.sub-lista{
+    color: red;
+}
+
+/* fim da parte para a atividade 5*/
+body{
+    margin: 50px 100px 50px 100px;
+    font-size: 18px;
+    font-family: 'Balsamiq Sans';
+    color: white;
+    background-color: #05a3ff;
+    
+}
+
+h1{
+    color:#ffee05;
+}
+ 
+
+
+mark{
+    background-color: #ffee05;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+
+
+}
+
+.stopFloat{    
+    clear: both;
+}
+
+.alinharElementosAEsquerda{
+    float: left;
+  
+}
+
+.alinharElementosADireita{
+    float: right;
+}
+
+.alinharTextoADireita{
+    text-align: right;
+}
+
+.alinharTextoAEsquerda{
+    text-align: left;
+}

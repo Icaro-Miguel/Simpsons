@@ -1,0 +1,37 @@
+body{
+    margin: 40px ;
+}
+
+
+
+
+#Personalidade {
+    
+    color: #ffe055;
+    
+}
+
+.alinharElementoAEsquerda{
+    float: left;
+    width:15% ;
+    height: 20% ;
+}
+.alinharElementoADireita{
+
+    float:right ;
+}
+
+p{
+    text-align:justify ;
+
+}
+
+img{
+    margin:15px ;
+}
+
+.videoDaLisa{
+
+    display:flex ;
+    justify-content:center ;
+}

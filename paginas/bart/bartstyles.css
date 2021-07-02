@@ -1,0 +1,28 @@
+p{
+    text-align: justify; 
+
+}   
+
+img{
+
+    margin: 15px;
+}
+.alinharAoCentro{
+        display: flex;
+        justify-content: center;
+
+}
+#alinharADireita{
+        float: right ;
+
+}
+
+#alinharAEsquerda{
+
+    float:left ;
+    
+}
+.Personalidade{
+
+   color: yellow;
+}

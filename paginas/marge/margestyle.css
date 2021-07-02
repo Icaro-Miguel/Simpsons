@@ -1,0 +1,44 @@
+body {
+    margin: 1%;
+    font-size: 25px ;
+}
+
+#Personalidade {
+
+     color: #ffe05f;
+     font-size: 40px;
+
+}
+
+.alinharElementoAEsquerda {
+    margin: 15px;
+    float: left;
+}
+
+.alinharElementoADireita {
+    margin: 10px;
+    margin-bottom: 1px;
+    float: right;
+}
+
+
+p {
+    text-align: justify;  
+    
+}
+#videodamarge {
+
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+

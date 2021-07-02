@@ -1,0 +1,44 @@
+body{
+        margin: 20px;
+        
+        font-size: 25px;
+}
+
+#AlinharTextoAEsquerda{
+        text-align: left;
+        color:yellow;
+        font-size: 29px;
+}
+
+p{
+        text-align: justify;
+        color: aliceblue; 
+        font-size: 25px;
+        
+}
+
+#Personalidade{
+        text-align: left;
+        color: #fff000;
+        font-size: 29px;
+}
+
+.alinharElementoAEsquerda{
+        float:left;
+}
+
+img{
+        margin:15px;
+}
+
+.alinharElementoADireita{
+        
+        float:right;
+
+}
+
+.VideoDaMaggie{
+
+        display:flex;
+        justify-content: center;
+}
